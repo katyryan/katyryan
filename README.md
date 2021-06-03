@@ -1,4 +1,7 @@
 ### Hi there 👋
+- Pronouns: she, her
+- Things I like to do: read, swim, hike, watch films and plays
+- I'm currently re-learning how to play the guitar and piano (when I can find time!)
 
 <!--
 **katyryan/katyryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
