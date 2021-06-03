@@ -1,8 +1,8 @@
 ### Hi there 👋
-- Pronouns: she, her
-- I work at GitHub 
-- Outside of work, I like to spend time with family, cook, read, write, swim, and hike 
-- I'm currently re-learning how to play the guitar and piano 
+- My name is Kate Ryan and my pronouns are she/her/hers.
+- I live in San Francisco and I work at GitHub. 
+- Outside of work, I like to spend time with family, cook, read, write, swim, and hike. 
+- I'm always interested in new recipes and coookbooks, and I'm currently trying to find time to re-learn how to play the guitar. 
 
 <!--
 **katyryan/katyryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
