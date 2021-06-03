@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Pronouns: she, her
 - I work at GitHub 
-- Outside of work, I like to spend time with family, read, write, swim, and hike 
+- Outside of work, I like to spend time with family, cook, read, write, swim, and hike 
 - I'm currently re-learning how to play the guitar and piano (when I can find time!)
 
 <!--
