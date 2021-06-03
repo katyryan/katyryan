@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Pronouns: she, her
 - I work at GitHub 
-- Things I like to do: read, write, swim, hike, watch films and plays
+- Things I like to do outside of work: read, write, swim, hike, watch films and plays
 - I'm currently re-learning how to play the guitar and piano (when I can find time!)
 
 <!--
