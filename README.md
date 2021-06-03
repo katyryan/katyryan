@@ -1,6 +1,6 @@
 ### Hi there 👋
-- My name is Kate Ryan and my pronouns are she/her/hers.
-- I live in San Francisco and I work at GitHub. 
+- My name is Kate Ryan. My pronouns are she/her/hers.
+- I live in San Francisco. 
 - Outside of work, I like to spend time with family, cook, read, write, swim, and hike. 
 - I'm always interested in new recipes and coookbooks, and I'm currently trying to find time to re-learn how to play the guitar. 
 
