@@ -2,7 +2,7 @@
 - Pronouns: she, her
 - I work at GitHub 
 - Outside of work, I like to spend time with family, cook, read, write, swim, and hike 
-- I'm currently re-learning how to play the guitar and piano (when I can find time!)
+- I'm currently re-learning how to play the guitar and piano 
 
 <!--
 **katyryan/katyryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
