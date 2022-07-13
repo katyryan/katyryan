@@ -2,7 +2,7 @@
 - My name is Kate Ryan. My pronouns are she/her/hers.
 - I live in San Francisco. 
 - Outside of work, I like to spend time with family, cook, read, write, swim, and hike. 
-- I'm always interested in new recipes and coookbooks, and I'm trying to find time to re-learn how to play the guitar. 
+ 
 
 <!--
 **katyryan/katyryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
