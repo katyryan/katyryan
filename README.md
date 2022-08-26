@@ -1,6 +1,6 @@
 ### Hi there 👋
-- My name is Kate Ryan. My pronouns are she/her/hers.
-- I live in San Francisco. 
+- My name is Kate Ryan. I support Mike Hanley (Chief Security Officer and SVP of Engineering) at GitHub.
+- I live in San Francisco and my pronouns are she/her/hers.
 - Outside of work, I like to spend time with family, cook, read, write, swim, and hike. 
  
 
